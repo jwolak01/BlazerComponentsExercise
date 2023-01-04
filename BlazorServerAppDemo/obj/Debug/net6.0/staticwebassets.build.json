@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iyqpSJ8HQFmwAaq1eUFGtJOff1VTd+CJvL8P9Hds9HY=",
+  "Hash": "5eRJnrQPmMOH8B36msinsIX3taHY/NiOWXv+yqPy//A=",
   "Source": "BlazorServerAppDemo",
   "BasePath": "_content/BlazorServerAppDemo",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorServerAppDemo\\wwwroot",
       "Source": "BlazorServerAppDemo",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorServerAppDemo.styles.css",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorServerAppDemo.styles.css",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "BlazorServerAppDemo.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorServerAppDemo.styles.css"
+      "OriginalItemSpec": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BlazorServerAppDemo.styles.css"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorServerAppDemo.bundle.scp.css",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorServerAppDemo.bundle.scp.css",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "BlazorServerAppDemo.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorServerAppDemo.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BlazorServerAppDemo.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\css\\site.css",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\favicon.ico",
       "SourceId": "BlazorServerAppDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\wwwroot\\",
       "BasePath": "_content/BlazorServerAppDemo",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

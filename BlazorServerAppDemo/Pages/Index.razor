@@ -1,9 +1,11 @@
 ﻿@page "/"
 @using BlazorServerAppDemo.Pages.ContactComponents
 
+<input type="checkbox" @onchange="@(() => { DisplayEmail = !DisplayEmail; })" /><label>Display Email</label>
+
 @foreach(var contact in contacts)
 {
-    <ContactComponent01 CurrentContact="contact"></ContactComponent01>
+    <ContactComponent01 CurrentContact="contact" DisplayEmail="@DisplayEmail"></ContactComponent01>
 }
 
 <br />
@@ -12,6 +14,7 @@
 <MyTextbox @attributes="@MyTextBoxAttributes"></MyTextbox>
 
 @code {
+    private bool DisplayEmail = false;
     private List<Contact> contacts;
 
     //Creates information which will be used in MyTextBox component

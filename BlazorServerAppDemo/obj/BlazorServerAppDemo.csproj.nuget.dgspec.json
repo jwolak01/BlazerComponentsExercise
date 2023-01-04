@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj": {}
+    "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj": {
+    "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
+        "projectUniqueName": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
         "projectName": "BlazorServerAppDemo",
-        "projectPath": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
-        "packagesPath": "C:\\Users\\jwolak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\obj\\",
+        "projectPath": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
+        "packagesPath": "C:\\Users\\jmwol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jwolak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jmwol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

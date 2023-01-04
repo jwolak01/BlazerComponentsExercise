@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o/tqfSgkqjb3jTKib0QL+e6n2VAJHJJto5mhBAlvlp17omf6tBy00o1hgRN/HeEYA7a4BoDFL2iMIQ528EgiQQ==",
+  "dgSpecHash": "YoDCqdQQVnplHzYztDzHYd0L4eP9m7ZbUuyBObv9A0SOJEvDusCOmML8E1tmW2MsTp5kL8yGNtffO+qsNld/zQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jwolak\\Desktop\\BlazerExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
+  "projectFilePath": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

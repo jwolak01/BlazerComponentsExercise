@@ -1,0 +1,43 @@
+﻿@page "/"
+@using BlazorServerAppDemo.Pages.ContactComponents
+
+@foreach(var contact in contacts)
+{
+    <ContactComponent01 CurrentContact="contact"></ContactComponent01>
+}
+
+<br />
+<MyTextbox Placeholder="Sample Placeholder"></MyTextbox>
+
+@code {
+    private List<Contact> contacts;
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        contacts = new List<Contact>
+        {
+            new Contact
+            {
+                FirstName = "Jim",
+                LastName = "Wolak",
+                Email = "jwolak73@gmail.com"
+            },
+            new Contact
+            {
+                FirstName = "Kerri",
+                LastName = "Mendes",
+                Email = "kam761@gmail.com"
+            },
+            new Contact
+            {
+                FirstName = "Brian",
+                LastName = "Wolak",
+                Email = "bwolak@gmail.com"
+            },
+
+        };
+    
+    }
+}

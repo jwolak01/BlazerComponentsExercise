@@ -1,7 +1,9 @@
-﻿<input placeholder="@Placeholder"/>
+﻿<!-- All of the attributes passed into the CustomAttributes Dictionary and utilized here-->
+<input @attributes="CustomAttributes"/>
 
 @code {
-    [Parameter]
-    public string Placeholder { get; set; }
+    //Vaules are pass to this Parameter and set within the Dictionary
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string, object> CustomAttributes { get; set; }
 
 }

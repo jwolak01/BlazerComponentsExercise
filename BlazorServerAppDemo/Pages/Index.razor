@@ -7,10 +7,20 @@
 }
 
 <br />
-<MyTextbox Placeholder="Sample Placeholder"></MyTextbox>
+
+<!-- This information is passed to the MyTextbox.razor Parameter and is utilized there-->
+<MyTextbox @attributes="@MyTextBoxAttributes"></MyTextbox>
 
 @code {
     private List<Contact> contacts;
+
+    //Creates information which will be used in MyTextBox component
+    private Dictionary<string, object> MyTextBoxAttributes = new Dictionary<string, object>
+                            {
+                                { "disabled", "disabled" },
+                                { "placeholder", "Contact Name" },
+                                { "type", "text" }
+                            };
 
     protected override void OnInitialized()
     {

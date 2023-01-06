@@ -3,26 +3,38 @@
     <b>Name: </b><span>@CurrentContact.FirstName @CurrentContact.LastName</span><br />
     <br />
 
+    <!-- Checks to see if the system will Display the Contact's email -->
     @if(DisplayEmail)
     {
         <b>Email: </b><i>@CurrentContact.Email</i>
 
     }
+    <br>
 
+    <!-- Checks to see if the system will display the Contact's information -->
     @if(displayInfo)
     {
         <span>The Email Address of @CurrentContact.FirstName @CurrentContact.LastName is @CurrentContact.Email</span>
     }
     <br />
-    <button @onclick="@(() => { displayInfo = !displayInfo; })">Show Info</button>
+
+    <button @onclick="@(() => { displayInfo = !displayInfo; })">Show Info</button>  <!-- On click change displayInfo boolean value -->
+    <button @onclick="@(() => DeleteCurrentContact.InvokeAsync(CurrentContact))">Delete</button> <!-- On click use DeleteCurrentContact and Invoke the DeleteContact method in Index.razor -->
 </p>
 
 @code {
+    /* A Contact Object is passed through the parameter and is set. 
+     * This object is passed from the Index.razor file */ 
     [Parameter]
     public Contact CurrentContact { get; set; }
 
+    /* True or False is passed through the Parameter, from Index.razor, and set. */
     [Parameter]
     public bool DisplayEmail { get; set; }
+
+    /* A Contact is passed and utilizes the DeleteContact method, found in the Index.razor file*/
+    [Parameter]
+    public EventCallback<Contact> DeleteCurrentContact { get; set; }
 
     private bool displayInfo = false;
 }

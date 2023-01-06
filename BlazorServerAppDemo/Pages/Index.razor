@@ -1,11 +1,14 @@
 ﻿@page "/"
 @using BlazorServerAppDemo.Pages.ContactComponents
 
-<input type="checkbox" @onchange="@(() => { DisplayEmail = !DisplayEmail; })" /><label>Display Email</label>
+<input type="checkbox" @bind="DisplayEmail" /><label>Display Email</label>
 
+<br />
+
+<!-- Loops through each Contact within the list, found in the code below, and stores that information in the ContactComponent01.razor Component -->
 @foreach(var contact in contacts)
 {
-    <ContactComponent01 CurrentContact="contact" DisplayEmail="@DisplayEmail"></ContactComponent01>
+    <ContactComponent01 CurrentContact="contact" DisplayEmail="@DisplayEmail" DeleteCurrentContact="DeleteContact"></ContactComponent01>
 }
 
 <br />
@@ -13,9 +16,17 @@
 <!-- This information is passed to the MyTextbox.razor Parameter and is utilized there-->
 <MyTextbox @attributes="@MyTextBoxAttributes"></MyTextbox>
 
+
 @code {
     private bool DisplayEmail = false;
+
     private List<Contact> contacts;
+
+    // A Contact is passed through the parameter and removes that Contact from the list
+    private void DeleteContact(Contact contact)
+    {
+        this.contacts.Remove(contact);
+    }
 
     //Creates information which will be used in MyTextBox component
     private Dictionary<string, object> MyTextBoxAttributes = new Dictionary<string, object>
@@ -25,6 +36,7 @@
                                 { "type", "text" }
                             };
 
+    // Here a list of Contacts is created 
     protected override void OnInitialized()
     {
         base.OnInitialized();
@@ -39,14 +51,14 @@
             },
             new Contact
             {
-                FirstName = "Kerri",
-                LastName = "Mendes",
+                FirstName = "Jane",
+                LastName = "Doe",
                 Email = "kam761@gmail.com"
             },
             new Contact
             {
-                FirstName = "Brian",
-                LastName = "Wolak",
+                FirstName = "John",
+                LastName = "Doe",
                 Email = "bwolak@gmail.com"
             },
 

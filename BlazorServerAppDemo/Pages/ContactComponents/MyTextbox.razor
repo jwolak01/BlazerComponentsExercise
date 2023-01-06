@@ -1,8 +1,8 @@
-﻿<!-- All of the attributes passed into the CustomAttributes Dictionary and utilized here-->
+﻿<!-- All of the attributes passed into the CustomAttributes Dictionary are utilized here-->
 <input @attributes="CustomAttributes"/>
 
 @code {
-    //Vaules are pass to this Parameter and set within the Dictionary
+    //Values are passed to this Parameter and set within the Dictionary
     [Parameter(CaptureUnmatchedValues = true)]
     public Dictionary<string, object> CustomAttributes { get; set; }
 

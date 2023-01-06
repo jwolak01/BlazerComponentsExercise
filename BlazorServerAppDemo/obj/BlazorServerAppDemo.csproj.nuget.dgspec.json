@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj": {}
+    "C:\\Users\\jmwol\\source\\repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj": {
+    "C:\\Users\\jmwol\\source\\repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
+        "projectUniqueName": "C:\\Users\\jmwol\\source\\repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
         "projectName": "BlazorServerAppDemo",
-        "projectPath": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
+        "projectPath": "C:\\Users\\jmwol\\source\\repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\BlazorServerAppDemo.csproj",
         "packagesPath": "C:\\Users\\jmwol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmwol\\Source\\Repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\obj\\",
+        "outputPath": "C:\\Users\\jmwol\\source\\repos\\BlazerComponentsExercise\\BlazorServerAppDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
